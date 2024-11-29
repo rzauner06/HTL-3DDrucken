@@ -22,15 +22,15 @@
 author:
     # Site's author name
     # Default: not set (author name is not displayed)
-    name: Your awesome name
+    name: Raphael Zauner
 
     # Site's author email
     # Default: not set (author email is not displayed)
-    email: your-email@yourdomain.com
+    email: raphael.zauner06@htl-salzburg.ac.at
 
     # Site's author website, profile
     # Default: not set (author site is not displayed)
-    site: http://yourdomain.com
+    site: https://rzauner06.github.io/HTL-3DDrucken/
 
 ############
 # Building #
@@ -221,13 +221,11 @@ plugins:
 #################
 
 # Site title
-title: Your awesome title
+title: HTL-3DDrucken
 
 # Site description
 description: > # this means to ignore newlines until the text ends
-    Write an awesome description for your new site here. You can edit this
-    line in _config.yml. It will appear in your document head meta (for
-    Google search results) and in your feed.xml site description.
+    Documentation by Raphael Zauner und Felix Lengauer
 
 # Default site image
 # Image used as a default thumbnail for pages and posts which do not have an
@@ -347,7 +345,7 @@ github_username: "jekyll"
 # Twitter username
 # Example: jekyllrb, if your Twitter URL is https://twitter.com/jekyllrb
 # Default: not set (Twitter URL is not displayed)
-twitter_username: "jekyllrb"
+twitter_username: ""
 
 youtube:
     # What kind of YouTube profile you have (it can be "user" or "channel")
